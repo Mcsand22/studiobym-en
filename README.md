@@ -44,5 +44,5 @@ I am Macarena Bernal, a passionate educator and technology professional. My jour
 * 💼 <a href="https://www.linkedin.com/in/macarena-bernal-ramirez/">Linkedin</a>
 * 💼 <a href="https://www.behance.net/macarenbernal">Behance</a>
 * 💼 <a href="https://github.com/Mcsand22">Github</a>
-* 🔗 <a href="https://mcsand22.github.io/studiobym/">Website</a>
+* 🔗 <a href="https://mcsand22.github.io/studiobym-en/">Website</a>
 * 📧 <a href="mailto:mabernal94@gmail.com" name="mail">Gmail</a>
